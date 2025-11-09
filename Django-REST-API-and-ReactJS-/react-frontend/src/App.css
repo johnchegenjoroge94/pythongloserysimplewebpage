@@ -1,0 +1,14 @@
+.show-products-nav {
+  margin-left: 5px;
+  margin-right: 5px;
+  font-size: 22px;
+  font-weight: 600;
+  color: gray;
+  text-decoration: none;
+}
+.products-card-info {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+  padding: 5px;
+}
